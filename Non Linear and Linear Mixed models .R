@@ -1,3 +1,6 @@
+######################################################
+#Understanding Customer Behaviour of Movie Franchise
+######################################################
 # ---- import-packages ----
 library(nlme)
 library(ggplot2)
